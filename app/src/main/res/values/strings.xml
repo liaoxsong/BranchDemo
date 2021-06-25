@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BranchDemo</string>
+    <string name="share">share</string>
+    <string name="deep_link_screen">Deep Link Screen</string>
 </resources>
