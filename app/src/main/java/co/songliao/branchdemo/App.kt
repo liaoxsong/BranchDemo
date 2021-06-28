@@ -6,7 +6,7 @@ import io.branch.referral.Branch
 /**
  * created by Liao Song on 6/25/21
  */
-class MyApp: Application() {
+class App: Application() {
 
     override fun onCreate() {
         super.onCreate()
