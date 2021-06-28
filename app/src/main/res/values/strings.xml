@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">BranchDemo</string>
-    <string name="share">share a cute animal</string>
+    <string name="share">share a cute cat</string>
+    <string name="share2">share a cute golden retriever pub</string>
+    <string name="share3">share a cute samoyed</string>
     <string name="deep_link_screen">Deep Link Screen</string>
 </resources>
